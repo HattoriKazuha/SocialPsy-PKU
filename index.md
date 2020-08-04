@@ -6,11 +6,11 @@
 </head>
 <body>
 <h1>Welcome to participate in our study! </h1>
-<p>Firstly, you have to watch the video below.</p>
-<p>After watching , you can click the button below and move on.</p>
+<p>Firstly, watch the video below.</p>
+<p>After watching, click the button below and move on.</p>
 
 <script src="js/plyr.js"></script>
-<link rel="stylesheet" href="css/plyr.css">
+<link rel="stylesheet" href="css/plyr.css"/>
 
 <h1>video</h1>
 <br />
@@ -49,7 +49,6 @@
         position: relative;
         top: 1px;
     }
-
 </style>
 
 <div id="btn2" align="center">
