@@ -24,11 +24,6 @@
 </div>
 <br />
 
-<div align="center">
-    <a href="https://bnupsych.asia.qualtrics.com/jfe/form/SV_4ZQzpqofICY6pG5">
-        <button>next</button>
-</div>
-
 <style>
     .button {
         display: inline-block;
@@ -60,9 +55,10 @@
         top:120px;
     }
 </style>
+
 <div id="btn2";>
     <a href="https://bnupsych.asia.qualtrics.com/jfe/form/SV_4ZQzpqofICY6pG5">
-        <button type="button" class="button">进入实验</button>
+        <button type="button" class="button">next</button>
     </a>
 </div>
 
