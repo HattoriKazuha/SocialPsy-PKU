@@ -31,7 +31,7 @@
         cursor: pointer;
         text-align: center;
         text-decoration: none;
-        font: 54px/100% Arial, Helvetica, sans-serif;
+        font: 30px/100% Arial, Helvetica, sans-serif;
         padding:.5em 2em .55em;
 
         text-shadow: 0 1px 1px rgba(0,0,0,.3);
@@ -51,8 +51,8 @@
     }
     .btn2{
         position:absolute;
-        left:100px;
-        top:120px;
+        left:50px;
+        top:60px;
     }
 </style>
 
