@@ -12,7 +12,6 @@
 <script src="js/plyr.js"></script>
 <link rel="stylesheet" href="css/plyr.css"/>
 
-<h1>video</h1>
 <br />
 <div class="m" align="center">
     <video width="900" height="506" controls>
