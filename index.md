@@ -17,20 +17,16 @@
 <div class="m" align="center">
     <video width="600" height="480" controls>
         <source src="video1.mp4">
-        <!-- <source src="video1.mp4" type="video/mp4">-->
+        <!-- <source src="path/to/video.webm" type="video/webm">-->
         <!-- Captions are optional -->
     </video>
     <script>plyr.setup();</script>
 </div>
 <br />
 
-<h1>next</h1>
-<p>Click the button of next and move on.
-  
-
 <div align="center">
-	<a href="https://www.bilibili.com/video/BV1Ys411n7Vv">
-	<button>next</button>
+    <a href="https://www.bilibili.com/video/BV1Ys411n7Vv">
+        <button>next</button>
 </div>
 
 </body>
