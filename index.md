@@ -16,8 +16,8 @@
 <br />
 <div class="m" align="center">
     <video width="900" height="506" controls>
-        <source src="video1.mp4">
-        <!-- <source src="path/to/video.webm" type="video/webm">-->
+        <source src="video3.mp4">
+        <!-- <source src="video3.mp4" type="video/mp4">-->
         <!-- Captions are optional -->
     </video>
     <script>plyr.setup();</script>
