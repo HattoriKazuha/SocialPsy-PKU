@@ -32,7 +32,7 @@
         text-align: center;
         text-decoration: none;
         font: 30px/100% Arial, Helvetica, sans-serif;
-        padding:.5em 2em .55em;
+        padding:.25em 1em .275em;
 
         text-shadow: 0 1px 1px rgba(0,0,0,.3);
         -webkit-border-radius: .5em;
@@ -51,8 +51,8 @@
     }
     .btn2{
         position:absolute;
-        left:50px;
-        top:60px;
+        left:100px;
+        top:120px;
     }
 </style>
 
