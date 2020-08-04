@@ -49,11 +49,7 @@
         position: relative;
         top: 1px;
     }
-    .btn2{
-        position:absolute;
-        left:100px;
-        top:120px;
-    }
+
 </style>
 
 <div id="btn2" align="center">
