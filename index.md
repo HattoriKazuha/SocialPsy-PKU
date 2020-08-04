@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SocialPsy PKU</title>
+</head>
+<body>
+<h1>Welcome to participate in our study! </h1>
+<p>Firstly, you have to watch the video below.</p>
+<p>After watching , you can click the button below and move on.</p>
 
-You can use the [editor on GitHub](https://github.com/HattoriKazuha/awe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<script src="js/plyr.js"></script>
+<link rel="stylesheet" href="css/plyr.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>video</h1>
+<br />
+<div class="m" align="center">
+    <video width="600" height="480" controls>
+        <source src="video1.mp4">
+        <!-- <source src="path/to/video.webm" type="video/webm">-->
+        <!-- Captions are optional -->
+    </video>
+    <script>plyr.setup();</script>
+</div>
+<br />
 
-### Markdown
+<h1>next</h1>
+<p>Click the button of next and move on.
+  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div align="center">
+	<a href="subject.number&enter.html">
+	<button>next</button>
+</div>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HattoriKazuha/awe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
