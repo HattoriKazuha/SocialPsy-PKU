@@ -15,7 +15,7 @@
 <h1>video</h1>
 <br />
 <div class="m" align="center">
-    <video width="900" height="720" controls>
+    <video width="900" height="506" controls>
         <source src="video1.mp4">
         <!-- <source src="path/to/video.webm" type="video/webm">-->
         <!-- Captions are optional -->
