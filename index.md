@@ -29,5 +29,42 @@
         <button>next</button>
 </div>
 
+<style>
+    .button {
+        display: inline-block;
+        outline: none;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        font: 54px/100% Arial, Helvetica, sans-serif;
+        padding:.5em 2em .55em;
+
+        text-shadow: 0 1px 1px rgba(0,0,0,.3);
+        -webkit-border-radius: .5em;
+        -moz-border-radius: .5em;
+        border-radius: .5em;
+        -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+        -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+        box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    }
+    .button:hover {
+        text-decoration: none;
+    }
+    .button:active {
+        position: relative;
+        top: 1px;
+    }
+    .btn2{
+        position:absolute;
+        left:100px;
+        top:120px;
+    }
+</style>
+<div id="btn2";>
+    <a href="https://bnupsych.asia.qualtrics.com/jfe/form/SV_4ZQzpqofICY6pG5">
+        <button type="button" class="button">进入实验</button>
+    </a>
+</div>
+
 </body>
 </html>
