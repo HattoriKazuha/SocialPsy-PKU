@@ -56,7 +56,7 @@
     }
 </style>
 
-<div id="btn2";>
+<div id="btn2" align="center">
     <a href="https://bnupsych.asia.qualtrics.com/jfe/form/SV_4ZQzpqofICY6pG5">
         <button type="button" class="button">next</button>
     </a>
